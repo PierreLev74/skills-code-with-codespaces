@@ -1,4 +1,15 @@
- ,
+{
+    // Name this configuration
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
+,
  // Add the IDs of extensions you want installed when the container is created.
  "customizations": {
      "vscode": {
